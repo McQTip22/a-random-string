@@ -1,0 +1,11 @@
+{
+  "name": "a-random-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian McEwen <brian.t.mcewen@gmail.com> (http://www.brianmcewen.com)",
+  "license": "ISC"
+}
