@@ -1,11 +1,15 @@
 {
-  "name": "a-random-string",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Brian McEwen <brian.t.mcewen@gmail.com> (http://www.brianmcewen.com)",
-  "license": "ISC"
+	"name": "a-random-string",
+	"version": "1.0.1",
+	"description": "A random string generator.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/McQTip22/a-random-string.git"
+	},
+	"author": "Brian McEwen <brian.t.mcewen@gmail.com> (http://www.brianmcewen.com)",
+	"license": "ISC"
 }
